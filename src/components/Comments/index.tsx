@@ -14,7 +14,7 @@ export const Comments = (): JSX.Element => {
     scriptElem.crossOrigin = 'anonymous';
     scriptElem.setAttribute(
       'repo',
-      'jeanmottin12/desafio05-trilha-reactjs-blog'
+      'williamrmendonca/ignite-challenge-blog'
     );
     scriptElem.setAttribute('issue-term', 'pathname');
     scriptElem.setAttribute('label', 'blog-comment');
